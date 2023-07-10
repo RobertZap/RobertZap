@@ -18,7 +18,7 @@
 
 I am a Junior Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
 
-- :telescope: I am completing a Front-End Developer Boot-Camp with a Fullstack extension.
+- :telescope: I am completing a JavaScript Developer Boot-Camp with a Fullstack extension.
 
 - :seedling: Expand one's own knowledge of programming and new technologies.
 
