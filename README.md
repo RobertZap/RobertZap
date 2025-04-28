@@ -60,16 +60,9 @@ Currently, I’m expanding my skills into backend technologies such as **Nest.js
 
 ---
 
-## 📈 GitHub Stats
-
-![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=TwojaNazwaGitHub&show_icons=true&theme=radical)
-
----
-
 ## 🗣️ Languages
 - 🇵🇱 Polish (Native)
 - 🇬🇧 English (Advanced)
-
 
 ---
 
