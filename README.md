@@ -16,13 +16,60 @@
 
 ---
 
-I am a Junior Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
+# 👋 Hi there, I'm Robert Zapalowicz
 
-- :telescope: I am completing a JavaScript Developer Boot-Camp with a Fullstack extension.
+## 👨‍💻 About Me
+I'm a **Frontend Developer** with hands-on experience building modern, scalable web applications using **React**, **Next.js**, and **TypeScript**.  
+I'm passionate about delivering clean, efficient UI components and following best practices in web development.
 
-- :seedling: Expand one's own knowledge of programming and new technologies.
+Currently, I’m expanding my skills into backend technologies such as **Nest.js**, **Prisma**, and **PostgreSQL** to become a more versatile **fullstack developer**.
 
-- :zap: In my free time I read industry articles and try to attend conferences.
+- 🔭 I’m currently working on: Expanding my fullstack skills (Nest.js, Prisma)
+- 🌱 I’m currently learning: Advanced backend development and database management
+- 👯 I’m looking to collaborate on: Frontend and fullstack projects
+- 💬 Ask me about: React, Next.js, TypeScript, Web Security, REST API integration
+- 📫 How to reach me: [zapalowicz.robert@gmail.com](mailto:zapalowicz.robert@gmail.com) | [LinkedIn](https://www.linkedin.com/in/robert-zapalowicz)
+- ⚡ Fun fact: I’m passionate about technology trends and sports
+
+---
+
+## 🛠️ Skills
+
+### Frontend
+- HTML • CSS • TypeScript • JavaScript
+- React • Next.js • TailwindCSS • Material UI
+
+### Tools & Technologies
+- Git • Jira • NextAuth • REST API
+- CI/CD • Responsive Web Design (RWD) • Jest
+
+### Optimization
+- Server-Side Rendering (SSR)
+- Static Site Generation (SSG)
+- Dynamic Module Loading
+
+---
+
+## 📚 Projects
+
+### 🚗 [Car Dealer](https://my-komis.vercel.app/)
+> Car dealership simulation app built with **Next.js**, **TypeScript**, and **MUI**. Includes secure authentication and input validation.
+
+### 💰 [Budget Manager](https://regal-crisp-f3e940.netlify.app/)
+> Budget management application with encryption features, developed in **React** and **Vite**.
+
+---
+
+## 📈 GitHub Stats
+
+![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=TwojaNazwaGitHub&show_icons=true&theme=radical)
+
+---
+
+## 🗣️ Languages
+- 🇵🇱 Polish (Native)
+- 🇬🇧 English (Advanced)
+
 
 ---
 
